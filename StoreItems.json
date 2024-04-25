@@ -4225,12 +4225,6 @@
 		"defname": "GR_HugeBearCatRug"
 	},
 	{
-		"abr": "human"surimi"",
-		"price": 3,
-		"category": "Raw fish",
-		"defname": "VCE_HumanSurimi"
-	},
-	{
 		"abr": "humanegg(fert.)",
 		"price": 167,
 		"category": "Яйца (опл.)",
